@@ -1,0 +1,300 @@
+[
+    {
+        "label": "gspread",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "gspread",
+        "description": "gspread",
+        "detail": "gspread",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceAccountCredentials",
+        "importPath": "oauth2client.service_account",
+        "description": "oauth2client.service_account",
+        "isExtraImport": true,
+        "detail": "oauth2client.service_account",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceAccountCredentials",
+        "importPath": "oauth2client.service_account",
+        "description": "oauth2client.service_account",
+        "isExtraImport": true,
+        "detail": "oauth2client.service_account",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceAccountCredentials",
+        "importPath": "oauth2client.service_account",
+        "description": "oauth2client.service_account",
+        "isExtraImport": true,
+        "detail": "oauth2client.service_account",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceAccountCredentials",
+        "importPath": "oauth2client.service_account",
+        "description": "oauth2client.service_account",
+        "isExtraImport": true,
+        "detail": "oauth2client.service_account",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceAccountCredentials",
+        "importPath": "oauth2client.service_account",
+        "description": "oauth2client.service_account",
+        "isExtraImport": true,
+        "detail": "oauth2client.service_account",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceAccountCredentials",
+        "importPath": "oauth2client.service_account",
+        "description": "oauth2client.service_account",
+        "isExtraImport": true,
+        "detail": "oauth2client.service_account",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "aiohttp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiohttp",
+        "description": "aiohttp",
+        "detail": "aiohttp",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "parse_sheets_links",
+        "importPath": "sheets_parser",
+        "description": "sheets_parser",
+        "isExtraImport": true,
+        "detail": "sheets_parser",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_ebay_images",
+        "importPath": "ebay_scraper",
+        "description": "ebay_scraper",
+        "isExtraImport": true,
+        "detail": "ebay_scraper",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_ebay_images",
+        "importPath": "ebay_scraper",
+        "description": "ebay_scraper",
+        "isExtraImport": true,
+        "detail": "ebay_scraper",
+        "documentation": {}
+    },
+    {
+        "label": "write_links_to_sheets",
+        "importPath": "add_data",
+        "description": "add_data",
+        "isExtraImport": true,
+        "detail": "add_data",
+        "documentation": {}
+    },
+    {
+        "label": "load_proxies",
+        "importPath": "get_proxy",
+        "description": "get_proxy",
+        "isExtraImport": true,
+        "detail": "get_proxy",
+        "documentation": {}
+    },
+    {
+        "label": "load_proxies",
+        "importPath": "get_proxy",
+        "description": "get_proxy",
+        "isExtraImport": true,
+        "detail": "get_proxy",
+        "documentation": {}
+    },
+    {
+        "label": "upload_to_imgbb",
+        "importPath": "send_to_imgbb",
+        "description": "send_to_imgbb",
+        "isExtraImport": true,
+        "detail": "send_to_imgbb",
+        "documentation": {}
+    },
+    {
+        "label": "process_ebay_link",
+        "importPath": "transform_ebay_link",
+        "description": "transform_ebay_link",
+        "isExtraImport": true,
+        "detail": "transform_ebay_link",
+        "documentation": {}
+    },
+    {
+        "label": "check_trigger",
+        "importPath": "update_monitor",
+        "description": "update_monitor",
+        "isExtraImport": true,
+        "detail": "update_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "update_trigger",
+        "importPath": "update_monitor",
+        "description": "update_monitor",
+        "isExtraImport": true,
+        "detail": "update_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "httpx",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "httpx",
+        "description": "httpx",
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "write_links_to_sheets",
+        "kind": 2,
+        "importPath": "add_data",
+        "description": "add_data",
+        "peekOfCode": "def write_links_to_sheets(sheet_key, ebay_links, start_row):\n    try:\n        scope = [\"https://spreadsheets.google.com/feeds\",\n                 \"https://www.googleapis.com/auth/drive\"]\n        credentials = ServiceAccountCredentials.from_json_keyfile_name(\n            \"credentials.json\", scope)\n        client = gspread.authorize(credentials)\n        sheet = client.open_by_key(sheet_key).worksheet('photos_url')\n        start_col = 2\n        all_photo_links = [",
+        "detail": "add_data",
+        "documentation": {}
+    },
+    {
+        "label": "load_proxies",
+        "kind": 2,
+        "importPath": "ebay_scraper",
+        "description": "ebay_scraper",
+        "peekOfCode": "def load_proxies(filename):\n    with open(filename, 'r') as file:\n        proxies = file.read().splitlines()\n    return proxies\nasync def scrape_ebay_images(url, proxies):\n    try:\n        proxy = random.choice(proxies)\n        proxy_parts = proxy.split(':')\n        proxy_dict = {\n            'http': f'http://{proxy_parts[2]}:{proxy_parts[3]}@{proxy_parts[0]}:{proxy_parts[1]}',",
+        "detail": "ebay_scraper",
+        "documentation": {}
+    },
+    {
+        "label": "load_proxies",
+        "kind": 2,
+        "importPath": "get_proxy",
+        "description": "get_proxy",
+        "peekOfCode": "def load_proxies(filename):\n    with open(filename, 'r') as file:\n        proxies = file.read().splitlines()\n    return proxies",
+        "detail": "get_proxy",
+        "documentation": {}
+    },
+    {
+        "label": "sheet_key",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "sheet_key = '11Thgpjvqc7RBHeZqu6km5bwF7HLbXX3L-8fqeJw3Azc'\ncredentials_file = 'credentials.json'\nproxy_file = 'proxy.txt'\nimgbb_api_key = \"e52110774c888773c47a569819fc8cfd\"\nlogging.basicConfig(filename='scraping_log.txt', level=logging.INFO,\n                    format='%(asctime)s [%(levelname)s] %(message)s', datefmt='%Y-%m-%d %H:%M:%S')\nasync def main():\n    logging.info(\"Executing main code...\")\n    proxies = load_proxies(proxy_file)\n    ebay_links = parse_sheets_links(sheet_key, credentials_file)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "credentials_file",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "credentials_file = 'credentials.json'\nproxy_file = 'proxy.txt'\nimgbb_api_key = \"e52110774c888773c47a569819fc8cfd\"\nlogging.basicConfig(filename='scraping_log.txt', level=logging.INFO,\n                    format='%(asctime)s [%(levelname)s] %(message)s', datefmt='%Y-%m-%d %H:%M:%S')\nasync def main():\n    logging.info(\"Executing main code...\")\n    proxies = load_proxies(proxy_file)\n    ebay_links = parse_sheets_links(sheet_key, credentials_file)\n    scope = [\"https://spreadsheets.google.com/feeds\",",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "proxy_file",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "proxy_file = 'proxy.txt'\nimgbb_api_key = \"e52110774c888773c47a569819fc8cfd\"\nlogging.basicConfig(filename='scraping_log.txt', level=logging.INFO,\n                    format='%(asctime)s [%(levelname)s] %(message)s', datefmt='%Y-%m-%d %H:%M:%S')\nasync def main():\n    logging.info(\"Executing main code...\")\n    proxies = load_proxies(proxy_file)\n    ebay_links = parse_sheets_links(sheet_key, credentials_file)\n    scope = [\"https://spreadsheets.google.com/feeds\",\n             \"https://www.googleapis.com/auth/drive\"]",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "imgbb_api_key",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "imgbb_api_key = \"e52110774c888773c47a569819fc8cfd\"\nlogging.basicConfig(filename='scraping_log.txt', level=logging.INFO,\n                    format='%(asctime)s [%(levelname)s] %(message)s', datefmt='%Y-%m-%d %H:%M:%S')\nasync def main():\n    logging.info(\"Executing main code...\")\n    proxies = load_proxies(proxy_file)\n    ebay_links = parse_sheets_links(sheet_key, credentials_file)\n    scope = [\"https://spreadsheets.google.com/feeds\",\n             \"https://www.googleapis.com/auth/drive\"]\n    credentials = ServiceAccountCredentials.from_json_keyfile_name(",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "parse_sheets_links",
+        "kind": 2,
+        "importPath": "sheets_parser",
+        "description": "sheets_parser",
+        "peekOfCode": "def parse_sheets_links(sheet_key, credentials_file):\n    try:\n        scope = [\"https://spreadsheets.google.com/feeds\",\n                 \"https://www.googleapis.com/auth/drive\"]\n        credentials = ServiceAccountCredentials.from_json_keyfile_name(\n            credentials_file, scope)\n        client = gspread.authorize(credentials)\n        sheet = client.open_by_key(sheet_key).worksheet('photos_url')\n        range_to_clear = sheet.range(\"B2:K\")\n        for cell in range_to_clear:",
+        "detail": "sheets_parser",
+        "documentation": {}
+    },
+    {
+        "label": "check_trigger",
+        "kind": 2,
+        "importPath": "update_monitor",
+        "description": "update_monitor",
+        "peekOfCode": "def check_trigger(sheet_key, credentials_file, sheet_name='photos_settings', cell='A1'):\n    try:\n        scope = [\"https://spreadsheets.google.com/feeds\",\n                 \"https://www.googleapis.com/auth/drive\"]\n        credentials = ServiceAccountCredentials.from_json_keyfile_name(\n            credentials_file, scope)\n        client = gspread.authorize(credentials)\n        sheet = client.open_by_key(sheet_key).worksheet(sheet_name)\n        sheet_url = client.open_by_key(sheet_key).worksheet('photos_url')\n        cell_value = sheet.acell(cell).value",
+        "detail": "update_monitor",
+        "documentation": {}
+    },
+    {
+        "label": "update_trigger",
+        "kind": 2,
+        "importPath": "update_monitor",
+        "description": "update_monitor",
+        "peekOfCode": "def update_trigger(sheet, sheet_url, cell='A1', value='0'):\n    try:\n        sheet.update_acell(cell, value)\n        sheet_url.update_acell('A1', 'ОТБОЙ!!! Можно трогать.')\n    except Exception as e:\n        logging.error(f\"Error updating trigger: {e}\")",
+        "detail": "update_monitor",
+        "documentation": {}
+    }
+]
